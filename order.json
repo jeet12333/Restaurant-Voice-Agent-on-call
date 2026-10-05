@@ -1,0 +1,79 @@
+{
+    "tables": {
+        "1": {
+            "status": "occupied",
+            "orders": [
+                {
+                    "item": "cheese garlic bread",
+                    "quantity": 1
+                }
+            ],
+            "notes": ""
+        },
+        "2": {
+            "status": "occupied",
+            "orders": [
+                {
+                    "item": "Veg Biryani",
+                    "quantity": 1
+                },
+                {
+                    "item": "Raita",
+                    "quantity": 1
+                },
+                {
+                    "item": "cheese garlic bread toast",
+                    "quantity": 1
+                },
+                {
+                    "item": "tea",
+                    "quantity": 1
+                },
+                {
+                    "item": "butter chicken",
+                    "quantity": 2
+                }
+            ],
+            "notes": ""
+        },
+        "3": {
+            "status": "available",
+            "orders": [],
+            "notes": ""
+        },
+        "4": {
+            "status": "available",
+            "orders": [],
+            "notes": ""
+        },
+        "5": {
+            "status": "reserved",
+            "orders": [],
+            "notes": "Reserved for 8 PM, 4 people"
+        },
+        "6": {
+            "status": "available",
+            "orders": [],
+            "notes": ""
+        },
+        "7": {
+            "status": "available",
+            "orders": [],
+            "notes": ""
+        },
+        "8": {
+            "status": "occupied",
+            "orders": [
+                {
+                    "item": "Dal Makhani",
+                    "quantity": 2
+                },
+                {
+                    "item": "soup",
+                    "quantity": 1
+                }
+            ],
+            "notes": ""
+        }
+    }
+}
